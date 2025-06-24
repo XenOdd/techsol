@@ -1,0 +1,7 @@
+- Save this file and commit:
+```bash
+mkdir -p .github/workflows
+# Save deploy.yml to .github/workflows/deploy.yml
+git add .github/workflows/deploy.yml
+git commit -m "Add GitHub Pages deployment workflow"
+git push origin main
