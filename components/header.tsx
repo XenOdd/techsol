@@ -23,7 +23,7 @@ const navigation = [
       { name: "Air & System", href: "/products/air-system" },
       { name: "Oil & Lubricants", href: "/products/oil-lubricants" },
       { name: "Machinery", href: "/products/machinery" },
-      { name: "Phosborne System", href: "/products/phosborne" },
+      { name: "Airborne System", href: "/products/airborne" },
       { name: "Materials", href: "/products/materials" },
     ],
   },

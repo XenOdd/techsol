@@ -15,15 +15,15 @@ export default function Footer() {
             <div className="space-y-2">
               <div className="flex items-center text-gray-300">
                 <Phone className="h-4 w-4 mr-2" />
-                <span>+1 (555) 123-4567</span>
+                <span>0309-9981199   042-35466110</span>
               </div>
               <div className="flex items-center text-gray-300">
                 <Mail className="h-4 w-4 mr-2" />
-                <span>info@techsol-military.com</span>
+                <span>Info@techsol.com.pk</span>
               </div>
               <div className="flex items-center text-gray-300">
                 <MapPin className="h-4 w-4 mr-2" />
-                <span>Defense Technology Park, USA</span>
+                <span>1023 Nizam Block, Allama Iqbal Town, Lahore, Pakistan</span>
               </div>
             </div>
           </div>
@@ -100,7 +100,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-700 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <div className="text-gray-400">2012 © Copyright Techsol Military Solutions</div>
+            <div className="text-gray-400">2025 © Copyright Techsol Military Solutions</div>
             <div className="flex space-x-6">
               <Link href="/contact" className="text-gray-400 hover:text-orange-400 transition-colors">
                 Contact us
